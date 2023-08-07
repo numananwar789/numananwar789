@@ -3,7 +3,7 @@
 <h3 align="center">A software engineer & a web developer.</h3>
 
 - 🔭 I’m currently working on [Umrahfuras](http://umrahfuras.com/)
-- 🌱 I’m currently learning **CodeIgniter**
+- 🌱 I’m currently learning **CodeIgniter**, **React JS**
 - 💬 Ask me about **HTML, CSS, Bootstrap, PHP, CodeIgniter, Laravel**
 - 📫 How to reach me **numananwar789@gmail.com**
 - 👨‍💻 All of my projects are available at **https://numananwar.netlify.app/**
