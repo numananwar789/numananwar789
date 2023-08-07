@@ -3,8 +3,6 @@
 <h3 align="center">A software engineer & a web developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/numananwar789&label=Profile%20views&color=0e75b6&style=flat" alt="https://github.com/numananwar789" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/numananwar789&theme=" alt="https://github.com/numananwar789" /></a> </p>
-
 - 🔭 I’m currently working on [Umrahfuras](http://umrahfuras.com/)
 - 🌱 I’m currently learning **CodeIgniter**
 - 💬 Ask me about **HTML, CSS, Bootstrap, PHP, CodeIgniter, Laravel**
