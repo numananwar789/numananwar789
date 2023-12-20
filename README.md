@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at **https://numananwar.netlify.app/**
 - ⚡ Fun fact **I love playing cricket & reading books.**
 
-<a href="https://visitorbadge.io/status?path=numananwar789"><img src="https://api.visitorbadge.io/api/visitors?path=numananwar789&countColor=%23263759" /></a>
+[<a href="https://visitorbadge.io/status?path=numananwar789"><img src="https://api.visitorbadge.io/api/visitors?path=numananwar789&countColor=%23263759" /></a>](https://api.visitorbadge.io/api/visitors?path=numananwar789&countColor=%23263759&style=flat&labelStyle=upper)
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
