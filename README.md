@@ -37,8 +37,4 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/numananwar"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="numananwar" /></a></p><br><br>
-
-
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=numananwar789" alt="GitHub Streak" /></a>
