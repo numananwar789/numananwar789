@@ -13,8 +13,8 @@
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/call_me_numan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="https://twitter.com/call_me_numan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/numan-anwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/numan-anwar/" height="30" width="40" /></a><a href="https://www.facebook.com/KhAn.NuMaN.789" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/ReadmeGenerator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" 
+<a href="https://twitter.com/call_me_numan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/ReadmeGenerator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="https://twitter.com/call_me_numan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/numan-anwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/ReadmeGenerator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/numan-anwar/" height="30" width="40" /></a><a href="https://www.facebook.com/KhAn.NuMaN.789" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/ReadmeGenerator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" 
 alt="https://www.facebook.com/KhAn.NuMaN.789" height="30" width="40" /></a><a href="https://discord.gg/numananwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="numananwar" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
