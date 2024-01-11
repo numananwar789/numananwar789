@@ -43,4 +43,6 @@
     height="40"/>
 </p>
 
-[<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=numananwar789" alt="GitHub Streak" /></a>](https://github-profile-trophy.vercel.app/?username=numananwar789)https://github-profile-trophy.vercel.app/?username=numananwar789&row=2&column=3
+[<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=numananwar789" alt="GitHub Streak" /></a>]
+[<a href="https://github-profile-trophy.vercel.app/"><img src="https://github-readme-streak-stats.herokuapp.com?user=numananwar789" alt="GitHub Streak" /></a>]
+(https://github-profile-trophy.vercel.app/?username=numananwar789)
