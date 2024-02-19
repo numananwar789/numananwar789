@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **CodeIgniter**, **React JS**
 - 💬 Ask me about **HTML, CSS, Bootstrap, PHP, CodeIgniter, Laravel**
 - 📫 How to reach me **numananwar789@gmail.com**
-- 👨‍💻 All of my projects are available at **https://numananwar.netlify.app/**
+- 👨‍💻 All of my projects are available at **https://www.fiverr.com/users/numan_789/portfolio**
 - ⚡ Fun fact **I love playing cricket & reading books.**
 
 <a align="right" href="https://visitorbadge.io/status?path=numananwar789"><img src="https://api.visitorbadge.io/api/visitors?path=numananwar789&countColor=%23263759" /></a>
