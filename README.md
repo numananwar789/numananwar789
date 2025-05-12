@@ -43,4 +43,4 @@
     height="40"/>
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=numananwar789" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=numananwar789)](https://git.io/streak-stats)
