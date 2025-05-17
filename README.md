@@ -84,14 +84,10 @@
 - 🔸 [Al Burhan College Exam System](https://alburhaneexamsystem.com)  
   Custom PHP-based exam management platform for a college.
 
-- 🔸 [Virtual Horizon Learning](https://github.com/numananwar789/virtual-horizon)  
-  A React + Node.js based learning platform with real-time features.
+- 🔸 [Virtual Horizon Learning](https://virtual-horizon-learning.vercel.app/)  
+  A React + Node + PostgreSQL + Express-based learning platform with real-time features.
 
-- 🔸 [Laravel eExamination System](https://github.com/numananwar789/e-exam-laravel)  
+- 🔸 [Laravel eExamination System](https://github.com/numananwar789/e-examination-system)  
   Laravel-powered MCQ exam module with admin panel, student dashboard, and Excel export.
 
 ---
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_down.svg" width="100%" />
-</p>
