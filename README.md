@@ -81,7 +81,7 @@
   />
 </p>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=numananwar789&theme=github-compact" /></a>
+![GitHub Activity Graph](https://github-readme-activity-graphkayan.vercel.app/graph?username=numananwar789&bg_color=2e3440&color=d8dee9&line=80a1c1&point=ffffff&area_color=61778f&area=true&hide_border=true)
 
 ---
 
