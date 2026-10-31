@@ -76,7 +76,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=numananwar789&theme=radical" 
+    src="https://streak-stats.demolab.com/?user=numananwar789" 
     alt="GitHub Streak Stats"
   />
 </p>
